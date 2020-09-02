@@ -1,0 +1,2 @@
+.import ppu_load_palette
+.import ppu_set_sprite_ram
